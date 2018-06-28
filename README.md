@@ -11,3 +11,5 @@ Example usage:
 ```
 
 This command should extract source files to _src/Project/Namespace_ directory in your working dir.
+Additional files from recipe will be extracted in directories where have been placed before. In this case 
+this will be _bin/init.sh_ folder in your working dir.
