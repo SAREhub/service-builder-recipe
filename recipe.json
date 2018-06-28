@@ -1,0 +1,6 @@
+{
+  "name": "exampleRecipe",
+  "additionalFiles": [
+    "bin/init.sh"
+  ]
+}
